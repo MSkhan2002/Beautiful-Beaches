@@ -1,0 +1,102 @@
+body{
+    background-image: url(car\ 1.jpg);
+    background-size: cover;
+}
+.col-4 h1{
+    font-size: 70px;
+    color: aliceblue;
+    margin: 0%;
+}
+.c1{
+    color: brown;
+}
+.col-4 h3{
+    color: cadetblue;
+    /* margin: 0%; */
+    margin-top: 0%;
+    line-height: 0%;
+    font-size: large;
+   
+}
+#hr1{
+    margin: 36px 249px;
+    padding: 3px 3px;
+height:4px;
+width: 820px;
+color: #ff0000;
+background-color: #ff0015;
+
+  }
+  .a1{
+    margin: 200px;
+  }
+  #hr2{
+    height:4px;
+    width: 820px;
+    color: #c40909;
+    background-color: #850707;
+    padding: 3px 3px;
+             }
+             .navbarnavbar-expand-lgnavbar-lightbg-light{
+                color: #850707;
+             }
+             
+
+  .h5{
+    font-weight: 100;
+  }
+  .car1{
+    margin-top: 30px;
+   
+  }
+  .slide{
+     width: 600px; 
+    height: 400px; 
+  }
+.link{
+
+  color: rgb(22, 19, 180)1, 128, 0;
+  background-color: transparent;
+  text-decoration: none;
+ -webkit-text-stroke-width: 1px;
+}
+
+@media(min-width: 0px)and (max-width:400px) {
+#hr1{
+  display: flex;
+  display: block;
+}
+}
+
+@media(min-width: 400px)and (max-width:600px)  {
+#hr1{
+  display: block;
+  display: flex;
+}
+}
+
+@media(min-width: 600px)and (max-width:862px)  {
+#hr1{
+  display: flex;
+  display: block;
+}
+}
+@media(min-width: 0px)and (max-width:400px) {
+#hr2{
+  display: flex;
+  display: block;
+}
+}
+
+@media(min-width: 400px)and (max-width:600px)  {
+#hr2{
+  display: block;
+}
+}
+
+@media(min-width: 600px)and (max-width:1200px)  {
+#hr2{
+  display: flex;
+}
+}
+
